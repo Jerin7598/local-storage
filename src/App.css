@@ -1,0 +1,43 @@
+*{
+  margin: 0PX;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.lo{
+
+  margin-top: 200px;
+}
+.ll{
+ 
+   margin-top: 200px;
+   margin-left: 100px;
+ }
+input{
+  margin-top: 20px;
+  padding: 7px;
+  border-radius: 5px;
+}
+textarea{
+  margin-top: 20px;
+  padding: 7px;
+  border-radius: 5px;
+}
+button{
+  margin-top: 20px;
+  margin-left: 15px;
+  padding: 5px;
+  border-radius: 5px;
+ 
+}
+.aa{
+  display: flex;
+  text-align: center;
+  margin-left: 400px;
+}
+.cc{
+  margin-top: 20px;
+}
+button:hover{
+  color: blue;
+  box-shadow: 2px 2px 3px 1px black;
+}
